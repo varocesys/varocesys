@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Portfolio de Prácticas: Copias de Seguridad y Gestión de Correo en Local con Mozilla Thunderbird
+# Copias de Seguridad y Gestión de Correo en Local con Mozilla Thunderbird
 
 **Alumno/a:** Vanesa  
 **Fecha:** 15 de septiembre de 2026  
