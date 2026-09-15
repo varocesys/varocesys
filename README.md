@@ -1,3 +1,8 @@
+<img width="2056" height="765" alt="ChatGPT Image 15 sept 2026, 21_51_13" src="https://github.com/user-attachments/assets/36af5ce9-b164-4814-8696-94651b06ae5c" />
+
+
+
+
 ## Hi there 👋
 
 # Copias de Seguridad y Gestión de Correo en Local con Mozilla Thunderbird
